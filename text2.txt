@@ -1,0 +1,1 @@
+Hi text2 file, welcome to Git operations
